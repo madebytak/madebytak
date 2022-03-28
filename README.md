@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **hi@madebytak.com**
 
+- ⚡ Fun fact **My day consists of ☕️ 🚴‍♂️ 📚**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gstakeshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gstakeshi" height="30" width="40" /></a>
