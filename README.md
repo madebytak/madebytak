@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Takeshi</h1>
 <h3 align="center">Digital Designer and Front End Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [www.madebytak.com](www.madebytak.com)
 
