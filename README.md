@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Takeshi</h1>
-<h3 align="center">UI/UX Designer and Front-end Engineer</h3>
+<h3 align="center">Product Designer. Coding sometimes. </h3>
 
-- 🌱 I’m currently learning **Javascript, Vue.js, Nuxt.js, and React**
 
 - 👨‍💻 All of my projects are available at [www.madebytak.com](www.madebytak.com)
-
-- 💬 Ask me about **Ruby on Rails, HTML and SCSS**
-
-- 📫 How to reach me **hi@madebytak.com**
 
 - ⚡ Fun fact **My day consists of ☕️ 🚴‍♂️ 📚**
 
